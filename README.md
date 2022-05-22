@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-别找了，大佬我错了错了，删了删了，自己用了
+别找了，大佬我错了错了，删了删了
 
 <!--
 **Tlaeld/Tlaeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
