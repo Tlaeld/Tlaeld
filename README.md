@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-最近有个新玩具，等时机到了就公布
+玩具炸了，悲
 
 <!--
 **Tlaeld/Tlaeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
