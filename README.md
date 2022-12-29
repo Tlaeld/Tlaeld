@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-闭库了，也许不公开了
-
 <!--
 **Tlaeld/Tlaeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
